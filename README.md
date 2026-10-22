@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1WxpKPa22cqC782lIxYZIPP
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Take it further
+
+Prototype above — for a production build with guardrails, CRM sync and analytics, see [AI Chatbot Development](https://visionquantech.com/ai-chatbot-development) and the [AI Chatbot for Small Business guide](https://visionquantech.com/blog/ai-chatbot-for-small-business) by [VisionQuantech](https://visionquantech.com).
